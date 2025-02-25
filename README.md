@@ -20,8 +20,8 @@ Using the **candy-data.csv** dataset from Kaggle, we apply Coordinate Descent to
 - **Scikit-learn** (for benchmarking against traditional Logistic Regression)  
 
 ## Contributors  
-- **Nauman Ali Murad** (Reg# 2022331) - [Email](mailto:u2022479@giki.edu.pk)  
-- **Muhammad Adeel** (Reg# 2022479) - [Email](mailto:u2022331@giki.edu.pk)  
+- **Nauman Ali Murad** (Reg# 2022479) - [Email](mailto:u2022479@giki.edu.pk)  
+- **Muhammad Adeel** (Reg# 2022331) - [Email](mailto:u2022331@giki.edu.pk)  
 - **Hassan Rais** (Reg# 2022212) - [Email](mailto:u2022212@giki.edu.pk)  
 - **Hamza Mehmood Zaidi** (Reg# 2022379) - [Email](mailto:u2022379@giki.edu.pk)  
 
